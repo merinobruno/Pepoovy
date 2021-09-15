@@ -5,7 +5,7 @@ from dotenv import load_dotenv
 load_dotenv('pepoovy.env')
 import youtube_dl
 import time
-DISCORD_TOKEN = 'ODg3MDU2MzQyNDQ2MTEyNzgw.YT-lmA.vxmYKBCyci3o5sbIrP4UqYGfXKE'
+DISCORD_TOKEN = 'ODg3MDU2MzQyNDQ2MTEyNzgw.YT-lmA.usZ0dQlUyeLwNv8NsA1_fMnJmBU'
 
 intents = discord.Intents().all()
 client = discord.Client(intents=intents)
